@@ -99,6 +99,8 @@ The project includes four visualizations:
 3. **Actual vs Predicted Scatter Plot:** Visualizes prediction accuracy.
 4. **Category-Wise Revenue Bar Chart:** Displays average revenue by product category.
 
+<img width="946" height="762" alt="image" src="https://github.com/user-attachments/assets/830cd179-1615-4137-85b2-5e5dad9768bd" />
+
 ## 🚀 How to Run the Project
 
 ### 1. Clone the Repository
